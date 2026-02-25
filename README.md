@@ -1,2 +1,2 @@
-# Literature-survey-app-v2
-Version2 of Literature survey app
+# literature-survey-app
+Auto Literature Survey app
